@@ -7,10 +7,6 @@
 
 In general, I would like to live in a way more intentionally aligned with my personal beliefs and aesthetic. For me that means treating myself, others and my environment (collectively what might be considered the Other) with respect and gratitude. Respect primarily for shared resources like time and energy, those being large umbrellas covering everything from email length to fossil fuel consumption. (Perhaps I will attempt a list someday.) It also includes respecting intent (believing the best about the other), emotion (understanding we all occupy a shared emotional space) and space (an appreciation of the physicality of our existence).
 
-There are currently many compromises I have made in regard to these goals, most of which have been justified in the name of providing for my family. (Some are simply the result of the collected decisions of my years, most of which appear individually amoral with the forgiveness of time.) For example: as part of my occupation, I current work on developing a product that, like most marketing products, shows little respect for others' time and attention.
-
-Another compromise I currently make is a general disregard for my environment's resources. I drive when not necessary, I waste when it is expedient to do so. I am frivolous with my monetary resources in the name of saving time resources. I am short-sighted in my planning and contemplation in the name of shoring up short-term emotional reserves. 
-
 # A Plan
 
 > Control of consciousness determines the quality of life.
@@ -33,7 +29,21 @@ Humility is often thought of as weakness when in fact it is strength. It is the 
 
 > True modesty comes from confidence. Modesty is a lack of anxiety about being ignored.
 
--- [The School of Life on Dieter Rams](http://www.thebookoflife.org/dieter-rams/) 
+-- [The School of Life on Dieter Rams](http://www.thebookoflife.org/dieter-rams/)
+
+##### Sonder and Anti-exceptionalism
+
+_Sonder_ is "the realization that each random passerby is living a life as vivid and complex as your own--populated with their own ambitions, friends, routines, worries and inherited craziness--an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra..."
+
+Maintaining a sense of one's place in the world, and an understanding of one's lack of significance even within the context of those we pass by on the street every day, is paradoxically a key component to unlocking the thread of true meaning available to all.
+
+##### Unconcern for Fairness
+
+Life is not fair in the ways humans are accustomed to measuring. 
+
+> As for those who in the present age are rich, command them not to be haughty, or to set their hopes on the uncertainty of riches...so that they may take hold of the life that really is life.
+
+-- Paul writing to Timothy, New Testament
 
 #### Complexity and Mystery
 
@@ -51,13 +61,19 @@ At the same time, it is important to me to believe in some existence beyond what
 
 Of those qualities of that which is beyond, a sense of hope and an abundance mentality are of significant importance.
 
+> Hope is like why you tread water when your ship sinks. Even though you know that in most cases you have no chance of being picked up, everyone who was ever picked up treaded water until rescue arrived. And so it's this necessary but insufficient precondition for a better future. Hope doesn't require that you know how you get from A to Z. Hope only requires that you know what your next step is.
+
+-- Cory Doctorow
+
 #### Gratitude and Generosity
 
 Out of this abundance comes both gratitude and generosity. 
 
 #### Grit
 
-> Grit...is a positive, non-cognitive trait based on an individual's passion for a particular long-term goal or endstate, coupled with a powerful motivation to achieve their respective objective. This perseverance of effort promotes the overcoming of obstacles or challenges that lie within a gritty individual’s path to accomplishment, and serves as a driving force in achievement realization. Commonly associated concepts within the field of psychology include "perseverance", "hardiness", "resilience", "ambition", "need for achievement" and "conscientiousness". ([Wikipedia](http://en.wikipedia.org/wiki/Grit_%28personality_trait%29))
+> Grit...is a positive, non-cognitive trait based on an individual's passion for a particular long-term goal or endstate, coupled with a powerful motivation to achieve their respective objective. This perseverance of effort promotes the overcoming of obstacles or challenges that lie within a gritty individual’s path to accomplishment, and serves as a driving force in achievement realization. Commonly associated concepts within the field of psychology include "perseverance", "hardiness", "resilience", "ambition", "need for achievement" and "conscientiousness".
+
+-- [Wikipedia](http://en.wikipedia.org/wiki/Grit_%28personality_trait%29)
 
 #### The Immutability and Amorality of Suffering
 
@@ -132,26 +148,3 @@ To accept change and difference gracefully; to remain flexible.
 #### The Products I Build and the Services I Provide
 
 To build things of enduring value, that honor the other in both intent and execution.
-
-## Current and Future Endeavors 
-
-The point of this document.
-
-#### The Collaboration Works and Minecraft U
-
-* Minecraft U SaaS
-
-#### Dallas Atelier
-
-#### My Website and Blog
-
-* To resume regular writing on my blog, and collection/curation of my work on my website.
-
-#### Skills Applicable to Income Generation
-
-* Ability to organize people around web development and software projects.
-
-#### Additional Ideas
-
-* Presentation on Collaborative Work, Lean Startup/Software Techniques, "Emotional Product Development"
-* Move from hand-to-mouth to idea generation and bringing said ideas to fruition. 
