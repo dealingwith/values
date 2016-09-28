@@ -31,13 +31,13 @@ Humility is often thought of as weakness when in fact it is strength. It is the 
 
 -- [The School of Life on Dieter Rams](http://www.thebookoflife.org/dieter-rams/)
 
-##### Sonder and Anti-exceptionalism
+#### Sonder and Anti-exceptionalism
 
 _Sonder_ is "the realization that each random passerby is living a life as vivid and complex as your own--populated with their own ambitions, friends, routines, worries and inherited craziness--an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra..."
 
 Maintaining a sense of one's place in the world, and an understanding of one's lack of significance even within the context of those we pass by on the street every day, is paradoxically a key component to unlocking the thread of true meaning available to all.
 
-##### Unconcern for Fairness
+#### Unconcern for Fairness
 
 Life is not fair in the ways humans are accustomed to measuring. 
 
@@ -103,13 +103,13 @@ To remain sober from drugs and alcohol one day at a time.
 
 -- Mihaly Csikszentmihalyi
 
-##### Deep Work
+#### Deep Work
 
 ### Health
 
-##### Mental Heath
-##### Physical Fitness
-##### Habits
+#### Mental Heath
+#### Physical Fitness
+#### Habits
 
 ### Giving
 
