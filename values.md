@@ -19,7 +19,7 @@ There has always been a desire to live within an ethical framework defined by sa
 
 In no particular order.
 
-#### Humility and Simplicity
+### Humility and Simplicity
 
 Humility is often thought of as weakness when in fact it is strength. It is the ability to wait out the storms of others' egos. It is the strength and confidence to not be heard. It is a lack of need or desire for recognition or acceptance. As the antithesis of ego, it builds instead of destroys, illuminates instead of blinds. Humility is required for effective leadership, for it is the underpinning of understanding, clear thinking, confident action. Humility allows for simplicity, which is the foundation for good design.
 
@@ -45,11 +45,11 @@ Life is not fair in the ways humans are accustomed to measuring.
 
 -- Paul writing to Timothy, New Testament
 
-#### Complexity and Mystery
+### Complexity and Mystery
 
 Part of humility, acceptance, appreciation and eventually the embrace of the unknown and unknowable must be considered core to a satisfying life.
 
-#### Faith
+### Faith
 
 > I am not a believing Christian, but I am a practicing Christian.
 
@@ -57,7 +57,7 @@ Part of humility, acceptance, appreciation and eventually the embrace of the unk
 
 At the same time, it is important to me to believe in some existence beyond what any one person can see or feel, a thread that connects us in a transcendental way. This Other is often found in others, and in the struggles of life. The concepts and principles of spiritual practice are ancient and varied but at the same time evergreen and universal. To deny them is not only futile but an act of ignorance. Wisdom would suggest that we remain open to the possibilities of that beyond our senses and intellect.
 
-#### Hope and Abundance
+### Hope and Abundance
 
 Of those qualities of that which is beyond, a sense of hope and an abundance mentality are of significant importance.
 
@@ -65,21 +65,21 @@ Of those qualities of that which is beyond, a sense of hope and an abundance men
 
 -- Cory Doctorow
 
-#### Gratitude and Generosity
+### Gratitude and Generosity
 
 Out of this abundance comes both gratitude and generosity. 
 
-#### Grit
+### Grit
 
 > Grit...is a positive, non-cognitive trait based on an individual's passion for a particular long-term goal or endstate, coupled with a powerful motivation to achieve their respective objective. This perseverance of effort promotes the overcoming of obstacles or challenges that lie within a gritty individual’s path to accomplishment, and serves as a driving force in achievement realization. Commonly associated concepts within the field of psychology include "perseverance", "hardiness", "resilience", "ambition", "need for achievement" and "conscientiousness".
 
 -- [Wikipedia](http://en.wikipedia.org/wiki/Grit_%28personality_trait%29)
 
-#### The Immutability and Amorality of Suffering
+### The Immutability and Amorality of Suffering
 
 I have suffered the loss of a child, something not uncommon but a loss I grieved with particular affect. While I hope to never experience that kind of personal tremor again, I live with the understanding that suffering visits all, regardless of their nature, behavior, thoughts or beliefs.
 
-#### Honesty and Faithfulness in Relationships
+### Honesty and Faithfulness in Relationships
 
 ## Actions
 
@@ -87,17 +87,17 @@ I have suffered the loss of a child, something not uncommon but a loss I grieved
 
 -- James 2:14
 
-#### Sobriety
+### Sobriety
 
 To remain sober from drugs and alcohol one day at a time.
 
-#### Conservation
+### Conservation
 
 > What is the use of a house if you haven’t got a tolerable planet to put it on?
 
 -- Thoreau
 
-#### Focus
+### Focus
 
 > It is by being fully involved with every detail of our lives that we find happiness.
 
@@ -105,46 +105,46 @@ To remain sober from drugs and alcohol one day at a time.
 
 ##### Deep Work
 
-#### Health
+### Health
 
 ##### Mental Heath
 ##### Physical Fitness
 ##### Habits
 
-#### Giving
+### Giving
 
 ## Practical Matters
 
-#### Providing for my Dependents
+### Providing for my Dependents
 
 To provide for our collective needs, but not in excess, remaining within my own ethical guidelines.
 
-#### Transportation
+### Transportation
 
 To use an automobile as little as possible.
 
-#### Use of "Social" Technologies
+### Use of "Social" Technologies
 
 I do not use so-called "social software". I require my technological tools to respect my time and attention and my social communities to be intentional, respectful and as un-mediated as possible.
 
-#### Reading and Contemplation
+### Reading and Contemplation
 
 To set aside time to read and write.
 
-#### Fitness
+### Fitness
 
 To set aside time to exercise. To consume foods responsibly and with intentionality towards my physical health. To have healthy habits in regards to consumption, rest, etc.
 
-#### Communication
+### Communication
 
 To communicate clearly with those around me and, when appropriate, with a broader audience.
 
-#### Time Management
+### Time Management
 
-#### Changes
+### Changes
 
 To accept change and difference gracefully; to remain flexible.
 
-#### The Products I Build and the Services I Provide
+### The Products I Build and the Services I Provide
 
 To build things of enduring value, that honor the other in both intent and execution.
