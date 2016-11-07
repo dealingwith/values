@@ -5,7 +5,7 @@
 
 # Overview
 
-In general, I would like to live in a way more intentionally aligned with my personal beliefs and aesthetic. For me, that means treating myself, others and my environment (collectively what might be considered the Other) with respect and gratitude. Respect primarily for shared resources like time and energy, those being large umbrellas covering everything from email length to fossil fuel consumption. (Perhaps I will attempt a list someday.) It also includes respecting intent (believing the best about the other), emotion (understanding we all occupy a shared emotional space) and space (an appreciation of the physicality of our existence).
+In general, I would like to live in a way more intentionally aligned with my personal beliefs and aesthetic. For me, that means treating myself, others and my environment (collectively what might be considered the Other) with respect and gratitude. Respect primarily for shared resources like time and energy, those being large umbrellas covering everything from email length to fossil fuel consumption. (Perhaps I will attempt a list someday.) It also includes respecting intent (believing the best about the other), emotion (understanding we all occupy a shared emotional environment) and space (an appreciation of the physicality of our existence).
 
 # A Plan
 
@@ -19,9 +19,17 @@ There has always been a desire to live within an ethical framework defined by sa
 
 In no particular order.
 
-### Humility and Simplicity
+### Humility
 
-Humility is often thought of as weakness when in fact it is a strength. It is the ability to wait out the storms of others' egos. It is the strength and confidence to not be heard. It is a lack of need or desire for recognition or acceptance. As the antithesis of ego, it builds instead of destroys, illuminates instead of blinds. Humility is required for effective leadership, for it is the underpinning of understanding, clear thinking, confident action. Humility allows for simplicity, which is the foundation for good design.
+Humility is often thought of as weakness when in fact it is a strength. It is the ability to wait out the storms of others' egos. It is the strength and confidence to not be heard. It is a lack of need or desire for recognition or acceptance. As the antithesis of ego, it builds instead of destroys, illuminates instead of blinds. Humility is required for effective leadership, for it is the underpinning of understanding, clear thinking and confident action. 
+
+### Authenticity
+
+Authenticity can be thought of as the opposite of hypocrisy. To be authentic one must first have an accurate view of oneself. Most of us are blind to our own hypocrisy.  
+
+### Simplicity
+
+Humility allows for simplicity. Simplicity is a cornerstone of not only good product design, but the design of a good life.
 
 > Being simple can make you feel vulnerable. But simplicity is really an achievement--it follows from hard-won clarity about what matters.
 
