@@ -89,6 +89,14 @@ I have suffered the loss of a child, something not uncommon but a loss I grieved
 
 ### Honesty and Faithfulness in Relationships
 
+### Minimalism and Consumption
+
+To disallow the consumption of objects to change my enjoyment of life. Much of American happiness revolves around the dopamine release precipitated by shopping or acquiring new things. But science suggests lasting happiness is unchanged by these activities. 
+
+Further, the relentless pursuit of such pleasures locks one into a cycle of earning and spending that can lead to long-term unhappiness, if not aligned with higher-order values.
+
+Further still, having more objects to keep track of can add stress and anxiety to life.
+
 ## Actions
 
 > What does it profit if someone says he has faith but does not have works?
