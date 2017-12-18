@@ -57,13 +57,17 @@ Life is not fair in the ways humans are accustomed to measuring.
 
 Part of humility, acceptance, appreciation and eventually the embrace of the unknown and unknowable must be considered core to a satisfying life.
 
-### Faith
+### Faith and Numinous Experience
+
+> Otto writes that while the concept of "the holy" is often used to convey moral perfection--and does entail this--it contains another distinct element, beyond the ethical sphere, for which he uses the term numinous. He explains the numinous as a "non-rational, non-sensory experience or feeling whose primary and immediate object is outside the self."
+
+-- [Wikipedia](https://en.wikipedia.org/wiki/Numinous)
 
 > I am not a believing Christian, but I am a practicing Christian.
 
 -- Freeman Dyson
 
-At the same time, it is important to me to believe in some existence beyond what any one person can see or feel, a thread that connects us in a transcendental way. This Other is often found in others, and in the struggles of life. The concepts and principles of spiritual practice are ancient and varied but at the same time evergreen and universal. To deny them is not only futile but an act of ignorance. Wisdom would suggest that we remain open to the possibilities of that beyond our senses and intellect.
+At the same time, it is important to me to believe in some existence beyond what any one person can see or feel, a thread that connects us in a transcendental way. The _Wholly Other_ is often found in _the Other_, and in the struggles of life. The concepts and principles of spiritual practice are ancient and varied but at the same time evergreen and universal. To deny them is not only futile but an act of ignorance. Wisdom would suggest that we remain open to the possibilities of that beyond our senses and intellect.
 
 ### Hope and Abundance
 
@@ -88,6 +92,8 @@ Out of this abundance comes both gratitude and generosity.
 I have suffered the loss of a child, something not uncommon but a loss I grieved with particular affect. While I hope to never experience that kind of personal tremor again, I live with the understanding that suffering visits all, regardless of their nature, behavior, thoughts or beliefs.
 
 ### Honesty and Faithfulness in Relationships
+
+## Commitments
 
 ### Minimalism and Consumption
 
@@ -145,7 +151,7 @@ I do not use so-called "social software". I require my technological tools to re
 
 ### Reading and Contemplation
 
-To set aside time to read and write.
+To set aside time to read and write. To be well-read. To be well-spoken.
 
 ### Fitness
 
