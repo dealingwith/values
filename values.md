@@ -23,11 +23,11 @@ In no particular order.
 
 Humility is often thought of as weakness when in fact it is a strength. It is the ability to wait out the storms of others' egos. It is the strength and confidence to not be heard. It is a lack of need or desire for recognition or acceptance. As the antithesis of ego, it builds instead of destroys, illuminates instead of blinds. Humility is required for effective leadership, for it is the underpinning of understanding, clear thinking and confident action. 
 
-### Authenticity
+#### Authenticity
 
 Authenticity can be thought of as the opposite of hypocrisy. To be authentic one must first have an accurate view of oneself. Most of us are blind to our own hypocrisy.  
 
-### Simplicity
+#### Simplicity
 
 Humility allows for simplicity. Simplicity is a cornerstone of not only good product design, but the design of a good life.
 
@@ -39,11 +39,19 @@ Humility allows for simplicity. Simplicity is a cornerstone of not only good pro
 
 -- [The School of Life on Dieter Rams](http://www.thebookoflife.org/dieter-rams/)
 
+### Complexity and Mystery
+
+Part of humility, acceptance, appreciation and eventually the embrace of the unknown and unknowable must be considered core to a satisfying life.
+
 #### Sonder and Anti-exceptionalism
 
 _Sonder_ is "the realization that each random passerby is living a life as vivid and complex as your own--populated with their own ambitions, friends, routines, worries and inherited craziness--an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra..."
 
 Maintaining a sense of one's place in the world, and an understanding of one's lack of significance even within the context of those we pass by on the street every day is paradoxically a key component to unlocking the thread of true meaning available to all.
+
+#### The Immutability and Amorality of Suffering
+
+I have suffered the loss of a child, something not uncommon but a loss I grieved with particular affect. While I hope to never experience that kind of personal tremor again, I live with the understanding that suffering visits all, regardless of their nature, behavior, thoughts or beliefs.
 
 #### Unconcern for Fairness
 
@@ -53,11 +61,7 @@ Life is not fair in the ways humans are accustomed to measuring.
 
 -- Paul writing to Timothy, New Testament
 
-### Complexity and Mystery
-
-Part of humility, acceptance, appreciation and eventually the embrace of the unknown and unknowable must be considered core to a satisfying life.
-
-### Faith and Numinous Experience
+#### Faith and Numinous Experience
 
 > Otto writes that while the concept of "the holy" is often used to convey moral perfection--and does entail this--it contains another distinct element, beyond the ethical sphere, for which he uses the term numinous. He explains the numinous as a "non-rational, non-sensory experience or feeling whose primary and immediate object is outside the self."
 
@@ -77,19 +81,21 @@ Of those qualities of that which is beyond, a sense of hope and an abundance men
 
 -- Cory Doctorow
 
-### Gratitude and Generosity
+An abundance mentality is necessary to combat zero-sum thinking, which separates and inhibits cooperation. 
+
+#### Gratitude and Generosity
 
 Out of this abundance comes both gratitude and generosity. 
 
+#### Assuming Best Intentions
+
+Most humans are not malicious actors. Words and deeds that I perceive as threatening are often at worst not intended to be, and typically not even directed towards me in the first place. If I assume the best intentions of others, it protects me from my own manufactured slights and the resulting resentments and unhappiness.
+
 ### Grit
 
-> Grit...is a positive, non-cognitive trait based on an individual's passion for a particular long-term goal or endstate, coupled with a powerful motivation to achieve their respective objective. This perseverance of effort promotes the overcoming of obstacles or challenges that lie within a gritty individual’s path to accomplishment and serves as a driving force in achievement realization. Commonly associated concepts within the field of psychology include "perseverance", "hardiness", "resilience", "ambition", "need for achievement" and "conscientiousness".
+> Grit...is a positive, non-cognitive trait based on an individual's passion for a particular long-term goal or end-state, coupled with a powerful motivation to achieve their respective objective. This perseverance of effort promotes the overcoming of obstacles or challenges that lie within a gritty individual’s path to accomplishment and serves as a driving force in achievement realization. Commonly associated concepts within the field of psychology include "perseverance", "hardiness", "resilience", "ambition", "need for achievement" and "conscientiousness".
 
 -- [Wikipedia](http://en.wikipedia.org/wiki/Grit_%28personality_trait%29)
-
-### The Immutability and Amorality of Suffering
-
-I have suffered the loss of a child, something not uncommon but a loss I grieved with particular affect. While I hope to never experience that kind of personal tremor again, I live with the understanding that suffering visits all, regardless of their nature, behavior, thoughts or beliefs.
 
 ### Honesty and Faithfulness in Relationships
 
