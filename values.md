@@ -119,7 +119,7 @@ Further still, having more objects to keep track of can add stress and anxiety t
 
 To remain sober from drugs and alcohol one day at a time.
 
-### Conservation
+### Stewardship and Conservation
 
 > What is the use of a house if you haven’t got a tolerable planet to put it on?
 
