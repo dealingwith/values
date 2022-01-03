@@ -55,7 +55,7 @@ To build things of enduring value, that honor the other in both intent and execu
 
 To provide for our collective needs, but not in excess, remaining within my own ethical guidelines.
 
-# Complexity & Mystery
+# Complexity and Mystery
 
 Part of humility, acceptance, appreciation and eventually the embrace of the unknown and unknowable must be considered core to a satisfying life.
 
@@ -83,7 +83,7 @@ Life is not fair in the ways humans are accustomed to measuring.
 
 -- Paul writing to Timothy, New Testament
 
-### Be willing & open to change
+### Be willing and open to change
 
 To accept change and difference gracefully; to remain flexible.
 
@@ -93,7 +93,7 @@ To accept change and difference gracefully; to remain flexible.
 
 -- [Wikipedia](http://en.wikipedia.org/wiki/Grit_%28personality_trait%29)
 
-## Faith & the Numinous
+## Faith and the Numinous
 
 > Otto writes that while the concept of "the holy" is often used to convey moral perfection--and does entail this--it contains another distinct element, beyond the ethical sphere, for which he uses the term numinous. He explains the numinous as a "non-rational, non-sensory experience or feeling whose primary and immediate object is outside the self."
 
@@ -135,9 +135,9 @@ Most humans are not malicious actors. Words and deeds that I perceive as threate
 
 ## Creativity
 
-# Honesty & Faithfulness
+# Honesty and Faithfulness
 
-## Loyalty & Commitment
+## Loyalty and Commitment
 
 See also ["Giving"](#giving)
 
@@ -147,7 +147,7 @@ See also ["Kindness"](#kindness) and ["Mentoring"](#mentoring)
 
 To communicate clearly with those around me and, when appropriate, with a broader audience.
 
-## Stewardship & Conservation
+## Stewardship and Conservation
 
 See also ["Mentoring"](#mentoring)
 
@@ -167,7 +167,7 @@ To use an automobile as little as possible.
 
 ## Intellectual Rigor
 
-### Reading, thinking, & writing
+### Reading, thinking, and writing
 
 To set aside time to read and write. To be well-read. To be well-spoken.
 
