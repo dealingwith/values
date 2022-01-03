@@ -21,7 +21,7 @@ Humility is often thought of as weakness when in fact it is a strength. It is th
 
 Authenticity can be thought of as the opposite of hypocrisy. To be authentic one must first have an accurate view of oneself. Most of us are blind to our own hypocrisy.  
 
-## Simplicity & Minimalism
+## Simplicity and Minimalism
 
 Humility allows for simplicity. Simplicity is a cornerstone of not only good product design, but the design of a good life.
 
@@ -65,7 +65,7 @@ Of late, I have realized how many of my personal values align with values from s
 
 ### Anti-exceptionalism
 
-[See also "Humility and Authenticity"](#humility-and-authenticity)
+See also ["Humility and Authenticity"](#humility-and-authenticity)
 
 _Sonder_ is "the realization that each random passerby is living a life as vivid and complex as your own--populated with their own ambitions, friends, routines, worries and inherited craziness--an epic story that continues invisibly around you like an anthill sprawling deep underground, with elaborate passageways to thousands of other lives that you’ll never know existed, in which you might appear only once, as an extra..."
 
@@ -105,9 +105,9 @@ To accept change and difference gracefully; to remain flexible.
 
 At the same time, it is important to me to believe in some existence beyond what any one person can see or feel, a thread that connects us in a transcendental way. The _Wholly Other_ is often found in _the Other_, and in the struggles of life. The concepts and principles of spiritual practice are ancient and varied but at the same time evergreen and universal. To deny them is not only futile but an act of ignorance. Wisdom would suggest that we remain open to the possibilities of that beyond our senses and intellect.
 
-### Contemplation & meditation
+### Contemplation and meditation
 
-# Hope & Abundance
+# Hope and Abundance
 
 Of those qualities of that which is beyond, a sense of hope and an abundance mentality are of significant importance.
 
@@ -119,7 +119,7 @@ An abundance mentality is necessary to combat zero-sum thinking, which separates
 
 ## Gratitude
 
-[Link to "Contemplation"...]
+See also ["Contemplation and meditation"](#contemplation-and-meditation)
 
 ## Generosity
 
@@ -139,19 +139,17 @@ Most humans are not malicious actors. Words and deeds that I perceive as threate
 
 ## Loyalty & Commitment
 
-[Link to "Giving"]
+See also ["Giving"](#giving)
 
 ## Communication
 
-[Link to "Kindness"]
-
-[Link to "Mentoring"]
+See also ["Kindness"](#kindness) and ["Mentoring"](#mentoring)
 
 To communicate clearly with those around me and, when appropriate, with a broader audience.
 
 ## Stewardship & Conservation
 
-[Link to "Mentoring"]
+See also ["Mentoring"](#mentoring)
 
 > What is the use of a house if you haven’t got a tolerable planet to put it on?
 
@@ -177,6 +175,6 @@ To set aside time to read and write. To be well-read. To be well-spoken.
 
 ## Fitness
 
-[Link to "Sobriety"]
+See also ["Sobriety"](#sobriety)
 
 To set aside time to exercise. To consume foods responsibly and with intentionality towards my physical health. To have healthy habits in regards to consumption, rest, etc.
