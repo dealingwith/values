@@ -107,6 +107,8 @@ At the same time, it is important to me to believe in some existence beyond what
 
 ### Contemplation and meditation
 
+To spend time in contemplation and meditation.
+
 # Hope and Abundance
 
 Of those qualities of that which is beyond, a sense of hope and an abundance mentality are of significant importance.
@@ -123,7 +125,11 @@ See also ["Contemplation and meditation"](#contemplation-and-meditation)
 
 ## Generosity
 
+To be generous with my finances and time.
+
 ### Giving
+
+To give financially as much as I am able.
 
 ## Assuming the Best
 
@@ -131,9 +137,15 @@ Most humans are not malicious actors. Words and deeds that I perceive as threate
 
 ### Kindness
 
+To be kind.
+
 ### Mentoring
 
+To spend time mentoring others. To spend time being mentored.
+
 ## Creativity
+
+To spend time in creative pursuits. This may include but are not limited to: music, writing, coding, entrepreneurial activities.
 
 # Honesty and Faithfulness
 
@@ -172,6 +184,10 @@ To use an automobile as little as possible.
 To set aside time to read and write. To be well-read. To be well-spoken.
 
 ## Growth Mindset
+
+> According to [Dweck](https://en.wikipedia.org/wiki/Carol_Dweck), individuals with a "growth" mindset are more likely to continue working hard despite setbacks. Those with a "growth mindset" believe that they can acquire any given ability provided they invest effort or study. Dweck argues that the growth mindset "will allow a person to live a less stressful and more successful life".
+
+-- [Wikipedia](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset)
 
 ## Fitness
 
