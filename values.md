@@ -1,5 +1,11 @@
 # TOC
 
+The format of this document is, loosely:
+
+> * Guiding principle
+>   * Value
+>     * Practice
+
 * [Preamble](#preamble)
 * [Humility and Authenticity](#humility-and-authenticity)
   * [Simplicity and Minimalism](#simplicity-and-minimalism)
@@ -54,6 +60,8 @@ There has always been a desire to live within an ethical framework defined by sa
 > Control of consciousness determines the quality of life.
 
 -- Mihaly Csikszentmihalyi
+
+I also have [a more nonlinear version of this framework on Kinopio](https://kinopio.club/values-H2MCIhemUEQ_5xTh7Tg5N).
 
 # Humility and Authenticity
 
