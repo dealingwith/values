@@ -2,9 +2,11 @@
 
 The format of this document is, loosely:
 
+```md
 * Guiding principle
   * Value
     * Practice
+```
 
 * [Preamble](#preamble)
 * [Humility and Authenticity](#humility-and-authenticity)
