@@ -1,6 +1,42 @@
 # TOC
 
+* [Preamble](#preamble)
+* [Humility and Authenticity](#humility-and-authenticity)
+  * [Simplicity and Minimalism](#simplicity-and-minimalism)
+    * [No social media](#no-social-media)
+    * [Focus on focus](#focus-on-focus)
+    * [Building things of enduring value](#building-things-of-enduring-value)
+    * [Providing for my Dependents](#providing-for-my-dependents)
+* [Complexity and Mystery](#complexity-and-mystery)
+  * [Stoicism](#stoicism)
+    * [Anti-exceptionalism](#anti-exceptionalism)
+    * [Universality of suffering](#universality-of-suffering)
+    * [Unconcern for fairness](#unconcern-for-fairness)
+    * [Be willing and open to change](#be-willing-and-open-to-change)
+    * [Grit](#grit)
+  * [Faith and the Numinous](#faith-and-the-numinous)
+    * [Contemplation and meditation](#contemplation-and-meditation)
+* [Hope and Abundance](#hope-and-abundance)
+  * [Gratitude](#gratitude)
+  * [Generosity](#generosity)
+    * [Giving](#giving)
+  * [Assuming the Best](#assuming-the-best)
+    * [Kindness](#kindness)
+    * [Mentoring](#mentoring)
+    * [Creativity](#creativity)
+* [Honesty and Faithfulness](#honesty-and-faithfulness)
+  * [Loyalty and Commitment](#loyalty-and-commitment)
+  * [Communication](#communication)
+  * [Stewardship and Conservation](#stewardship-and-conservation)
+    * [Sobriety](#sobriety)
+    * [Transportation](#transportation)
+* [Mastery](#mastery)
+  * [Intellectual Rigor](#intellectual-rigor)
+    * [Reading, thinking, and writing](#reading-thinking-and-writing)
+  * [Growth Mindset](#growth-mindset)
+  * [Fitness](#fitness)
 
+# Preamble
 
 > I say these words pretty loosely
 > There's so much more to life than words
