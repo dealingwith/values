@@ -1,3 +1,7 @@
+# TOC
+
+
+
 > I say these words pretty loosely
 > There's so much more to life than words
 
@@ -19,7 +23,7 @@ There has always been a desire to live within an ethical framework defined by sa
 
 Humility is often thought of as weakness when in fact it is a strength. It is the ability to wait out the storms of others' egos. It is the strength and confidence to not be heard. It is a lack of need or desire for recognition or acceptance. As the antithesis of ego, it builds instead of destroys, illuminates instead of blinds. Humility is required for effective leadership, for it is the underpinning of understanding, clear thinking and confident action.
 
-Authenticity can be thought of as the opposite of hypocrisy. To be authentic one must first have an accurate view of oneself. Most of us are blind to our own hypocrisy.  
+Authenticity can be thought of as the opposite of hypocrisy. To be authentic one must first have an accurate view of oneself. Most of us are blind to our own hypocrisy.
 
 ## Simplicity and Minimalism
 
@@ -33,7 +37,7 @@ Humility allows for simplicity. Simplicity is a cornerstone of not only good pro
 
 -- [The School of Life on Dieter Rams](http://www.thebookoflife.org/dieter-rams/)
 
-I strive to disallow the consumption of objects to change my enjoyment of life. Much of American happiness revolves around the dopamine release precipitated by shopping or acquiring new things. But science suggests lasting happiness is unchanged by these activities. 
+I strive to disallow the consumption of objects to change my enjoyment of life. Much of American happiness revolves around the dopamine release precipitated by shopping or acquiring new things. But science suggests lasting happiness is unchanged by these activities.
 
 Further, the relentless pursuit of such pleasures locks one into a cycle of earning and spending that can lead to long-term unhappiness, if not aligned with higher-order values.
 
@@ -77,7 +81,7 @@ I have suffered the loss of a child, something not uncommon but a loss I grieved
 
 ### Unconcern for fairness
 
-Life is not fair in the ways humans are accustomed to measuring. 
+Life is not fair in the ways humans are accustomed to measuring.
 
 > As for those who in the present age are rich, command them not to be haughty, or to set their hopes on the uncertainty of riches...so that they may take hold of the life that really is life.
 
