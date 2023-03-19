@@ -179,7 +179,7 @@ To be generous with my finances and time.
 
 ### Giving
 
-To give financially as much as I am able.
+To give financially as much as I am able. I try to give away 10% of my net income.
 
 ## Assuming the Best
 
