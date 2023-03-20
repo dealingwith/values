@@ -171,7 +171,9 @@ An abundance mentality is necessary to combat zero-sum thinking, which separates
 
 ## Gratitude
 
-See also ["Contemplation and meditation"](#contemplation-and-meditation)
+See also ["Contemplation and meditation"](#contemplation-and-meditation).
+
+I try to practice gratitude on a daily basis by listing things I am grateful for in my _daily pages_ (my personal take on [morning pages](https://juliacameronlive.com/basic-tools/morning-pages/)).
 
 ## Generosity
 
