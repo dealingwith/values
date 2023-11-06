@@ -8,41 +8,42 @@ The format of this document is, loosely:
     * Practice
 ```
 
-* [Preamble](#preamble)
-* [Humility and Authenticity](#humility-and-authenticity)
-  * [Simplicity and Minimalism](#simplicity-and-minimalism)
-    * [No social media](#no-social-media)
-    * [Focus on focus](#focus-on-focus)
-    * [Building things of enduring value](#building-things-of-enduring-value)
-    * [Providing for my Dependents](#providing-for-my-dependents)
-* [Complexity and Mystery](#complexity-and-mystery)
-  * [Stoicism](#stoicism)
-    * [Anti-exceptionalism](#anti-exceptionalism)
-    * [Universality of suffering](#universality-of-suffering)
-    * [Unconcern for fairness](#unconcern-for-fairness)
-    * [Be willing and open to change](#be-willing-and-open-to-change)
-    * [Grit](#grit)
-  * [Faith and the Numinous](#faith-and-the-numinous)
-    * [Contemplation and meditation](#contemplation-and-meditation)
-* [Hope and Abundance](#hope-and-abundance)
-  * [Gratitude](#gratitude)
-  * [Generosity](#generosity)
-    * [Giving](#giving)
-  * [Assuming the Best](#assuming-the-best)
-    * [Kindness](#kindness)
-    * [Mentoring](#mentoring)
-    * [Creativity](#creativity)
-* [Honesty and Faithfulness](#honesty-and-faithfulness)
-  * [Loyalty and Commitment](#loyalty-and-commitment)
-  * [Communication](#communication)
-  * [Stewardship and Conservation](#stewardship-and-conservation)
-    * [Sobriety](#sobriety)
-    * [Transportation](#transportation)
-* [Mastery](#mastery)
-  * [Intellectual Rigor](#intellectual-rigor)
-    * [Reading, thinking, and writing](#reading-thinking-and-writing)
-  * [Growth Mindset](#growth-mindset)
-  * [Fitness](#fitness)
+- [TOC](#toc)
+- [Preamble](#preamble)
+- [Humility and Authenticity](#humility-and-authenticity)
+  - [Simplicity and Minimalism](#simplicity-and-minimalism)
+    - [No social media](#no-social-media)
+    - [Focus on focus](#focus-on-focus)
+    - [Building things of enduring value](#building-things-of-enduring-value)
+    - [Providing for my Dependents](#providing-for-my-dependents)
+- [Complexity and Mystery](#complexity-and-mystery)
+  - [Stoicism](#stoicism)
+    - [Anti-exceptionalism](#anti-exceptionalism)
+    - [Universality of suffering](#universality-of-suffering)
+    - [Unconcern for fairness](#unconcern-for-fairness)
+    - [Be willing and open to change](#be-willing-and-open-to-change)
+    - [Grit](#grit)
+  - [Faith and the Numinous](#faith-and-the-numinous)
+    - [Contemplation and meditation](#contemplation-and-meditation)
+- [Hope and Abundance](#hope-and-abundance)
+  - [Gratitude](#gratitude)
+  - [Generosity](#generosity)
+    - [Giving](#giving)
+  - [Assuming the Best](#assuming-the-best)
+    - [Kindness](#kindness)
+    - [Mentoring](#mentoring)
+  - [Creativity](#creativity)
+- [Honesty and Faithfulness](#honesty-and-faithfulness)
+  - [Loyalty and Commitment](#loyalty-and-commitment)
+  - [Communication](#communication)
+  - [Stewardship and Conservation](#stewardship-and-conservation)
+    - [Sobriety](#sobriety)
+    - [Transportation](#transportation)
+- [Mastery](#mastery)
+  - [Intellectual Rigor](#intellectual-rigor)
+    - [Reading, thinking, and writing](#reading-thinking-and-writing)
+  - [Growth Mindset](#growth-mindset)
+  - [Fitness](#fitness)
 
 # Preamble
 
@@ -152,6 +153,14 @@ To accept change and difference gracefully; to remain flexible.
 > I am not a believing Christian, but I am a practicing Christian.
 
 -- Freeman Dyson
+
+> ...it feels, under the circumstances, that to dismiss the existence of these things that live beyond our reasonable selves outright is, at best, ungenerous...
+>
+> I don’t blindly succumb to these feelings, but still I remain watchful for that promise. This is how I have chosen to live my life – in uncertainty, and by doing so to be open to the divine possibility of things, whether it exists or not. I believe this gives my life, and especially my work, meaning and potential and soul, too, beyond what the rational world has to offer.
+> 
+> ...there are some things that, for our own sanity, probably should remain beyond our understanding. It gives us somewhere to go.
+
+-- Nick Cave (in _Faith, Hope and Carnage_)
 
 At the same time, it is important to me to believe in some existence beyond what any one person can see or feel, a thread that connects us in a transcendental way. The _Wholly Other_ is often found in _the Other_, and in the struggles of life. The concepts and principles of spiritual practice are ancient and varied but at the same time evergreen and universal. To deny them is not only futile but an act of ignorance. Wisdom would suggest that we remain open to the possibilities of that beyond our senses and intellect.
 
