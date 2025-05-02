@@ -44,6 +44,7 @@ The format of this document is, loosely:
     - [Reading, thinking, and writing](#reading-thinking-and-writing)
   - [Growth Mindset](#growth-mindset)
   - [Fitness](#fitness)
+- [Values Heroes](#values-heroes)
 
 # Preamble
 
@@ -255,3 +256,10 @@ To set aside time to read and write. To be well-read. To be well-spoken.
 See also ["Sobriety"](#sobriety)
 
 To set aside time to exercise. To consume foods responsibly and with intentionality towards my physical health. To have healthy habits in regards to consumption, rest, etc.
+
+# Values Heroes
+
+(WIP)
+
+- [Columbo](https://en.wikipedia.org/wiki/Columbo)
+- 
